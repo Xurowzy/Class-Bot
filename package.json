@@ -1,0 +1,15 @@
+{
+  "name": "nome-do-seu-bot",
+  "version": "1.0.0",
+  "description": "Descrição do seu bot aqui",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
