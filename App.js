@@ -5,5 +5,5 @@ const client = new Client({
      prefix: 'prefixo'
 })
 client.loadEvents('./Modules/Events/')
-client.loadCommands('./Modules/Commands')
+client.loadCommands('./Modules/Commands/')
 client.login(client.token)
